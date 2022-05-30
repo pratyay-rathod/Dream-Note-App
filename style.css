@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    background-color: #212121;
+}
+.img {
+    height: 70px;
+    width: 70px;
+    float: left;
+    border-radius: 50%;
+  }
+  .CName_login {
+    width: 100%;
+    height: 90px;
+    
+    display: flex;
+    justify-content: center;
+    color:aliceblue;
+    padding: 18px;
+  }
+.DreamNotes{
+    background-color: #212121;
+    width: 100%;
+    height:auto;
+    position:absolute;
+}
+.addnotes{
+    position: relative;
+    margin-top: 25px;
+    
+}
+
+.card-body{
+    background-color: #212121;
+    color: aliceblue;
+    border-radius: 10px;
+    border:2px solid blue;
+
+}
+
+#mynotetitle{
+    background-color: #212121;
+    color: aliceblue;
+}
+
+#notestext{
+    background-color: #212121;
+    color: aliceblue;
+}
